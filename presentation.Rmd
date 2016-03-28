@@ -1,0 +1,25 @@
+--- 
+title: <span style="fontsize:5pt;">COMPREHENSIVE SAFETY ANALYSIS ON CRASH MODIFICATION FACTORS AT INTERSECTIONS </span> 
+author: 
+- "Author: Jung-Han Wang"
+- "Supervisor: Mohamed A. Abdel-Aty"
+date: March 31, 2016
+output:
+  revealjs::revealjs_presentation: 
+    pandoc_args: [
+      "--title-prefix", "Foo",
+      "--id-prefix", "Bar",
+    ]
+    theme: beige 
+    transition: concave
+--- 
+
+## Research Diagram
+
+![alt text](diagram2.png)
+
+## Thanks for your attention {data-background-video="ucfcampus2.mp4"}
+
+```{r, echo=FALSE}
+```
+
