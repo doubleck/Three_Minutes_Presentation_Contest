@@ -16,7 +16,7 @@ output:
 
 ## Research Diagram
 
-![alt text](diagram2.png)
+![alt text](diagramf.png)
 
 ## Thanks for your attention {data-background-video="https://www.dropbox.com/s/vealmhmdyp31ds8/ucfcampus_short.mp4?raw=1"}
 
