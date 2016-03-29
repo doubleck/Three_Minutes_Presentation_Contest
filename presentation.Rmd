@@ -18,7 +18,7 @@ output:
 
 ![alt text](diagram2.png)
 
-## Thanks for your attention {data-background-video="https://www.dropbox.com/s/na2g256u3jetx3u/ucfcampus2.mp4?raw=1"}
+## Thanks for your attention {data-background-video="https://www.dropbox.com/s/vealmhmdyp31ds8/ucfcampus_short.mp4?raw=1"}
 
 ```{r, echo=FALSE}
 ```
